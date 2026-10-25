@@ -1,12 +1,5 @@
 # 8-Bit Binary Arithmetic and Logical Shift Operations in Python
 
-## Project Overview
- 
-
-
-
-
-## Objectives
 
 ## Program 1: Signed Binary Arithmetic Using 8-Bit 2's Complement
 <img width="392" height="289" alt="image" src="https://github.com/user-attachments/assets/7b52cc77-d1e7-4d22-82ea-e9664fabc88e" />
