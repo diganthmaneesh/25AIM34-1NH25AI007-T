@@ -2,11 +2,30 @@
 
 ## Project Overview
 
+This project demonstrates signed binary arithmetic using the **8-bit 2's complement representation** and logical shift operations on 8-bit binary numbers. Python programs are used to perform the operations, display the intermediate steps, and verify the results through manual calculations.
+
 The project contains two Python programs:
 
-1. `Program 1 Code.py` — performs signed addition using 8-bit 2's complement representation and checks for arithmetic overflow.
-2. `Program 2 Code.py` — performs logical left and right shifts and displays each step while maintaining an 8-bit result.
+1. `signed_binary_arithmetic.py` — performs signed addition using 8-bit 2's complement representation and checks for arithmetic overflow.
+2. `logical_shift_operations.py` — performs logical left and right shifts and displays each step while maintaining an 8-bit result.
 
+## Objectives
+
+- Represent positive and negative integers using 8-bit 2's complement.
+- Perform binary addition and display the result in binary and decimal formats.
+- Identify whether signed arithmetic overflow occurs.
+- Perform logical left and right shifts on 8-bit binary numbers.
+- Display each shift operation step by step.
+- Verify the program results using manual binary calculations.
+
+## Requirements
+
+- Python 3.x
+- Any Python editor or IDE, such as IDLE, VS Code, or PyCharm
+
+No external libraries are required.
+
+---
 
 ## Program 1: Signed Binary Arithmetic Using 8-Bit 2's Complement
 
