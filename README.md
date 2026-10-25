@@ -4,8 +4,8 @@
 
 The project contains two Python programs:
 
-1. `signed_binary_arithmetic.py` — performs signed addition using 8-bit 2's complement representation and checks for arithmetic overflow.
-2. `logical_shift_operations.py` — performs logical left and right shifts and displays each step while maintaining an 8-bit result.
+1. `Program 1 Code.py` — performs signed addition using 8-bit 2's complement representation and checks for arithmetic overflow.
+2. `Program 2 Code.py` — performs logical left and right shifts and displays each step while maintaining an 8-bit result.
 
 
 ## Program 1: Signed Binary Arithmetic Using 8-Bit 2's Complement
