@@ -1,33 +1,15 @@
 # 8-Bit Binary Arithmetic and Logical Shift Operations in Python
 
 ## Project Overview
+ 
 
-This project demonstrates signed binary arithmetic using the **8-bit 2's complement representation** and logical shift operations on 8-bit binary numbers. Python programs are used to perform the operations, display the intermediate steps, and verify the results through manual calculations.
 
-The project contains two Python programs:
 
-1. `signed_binary_arithmetic.py` — performs signed addition using 8-bit 2's complement representation and checks for arithmetic overflow.
-2. `logical_shift_operations.py` — performs logical left and right shifts and displays each step while maintaining an 8-bit result.
 
 ## Objectives
 
-- Represent positive and negative integers using 8-bit 2's complement.
-- Perform binary addition and display the result in binary and decimal formats.
-- Identify whether signed arithmetic overflow occurs.
-- Perform logical left and right shifts on 8-bit binary numbers.
-- Display each shift operation step by step.
-- Verify the program results using manual binary calculations.
-
-## Requirements
-
-- Python 3.x
-- Any Python editor or IDE, such as IDLE, VS Code, or PyCharm
-
-No external libraries are required.
-
----
-
 ## Program 1: Signed Binary Arithmetic Using 8-Bit 2's Complement
+<img width="392" height="289" alt="image" src="https://github.com/user-attachments/assets/7b52cc77-d1e7-4d22-82ea-e9664fabc88e" />
 
 ### Description
 
@@ -143,6 +125,9 @@ The program prints the binary operands, binary addition, final 8-bit result, dec
 
 ## Program 2: Logical Left and Right Shift Operations
 
+
+<img width="390" height="164" alt="image" src="https://github.com/user-attachments/assets/ee7323c3-b7ad-444a-a88d-f4129f08d57a" />
+
 ### Description
 
 A logical shift moves the bits of a binary number by a specified number of positions. Vacant positions are filled with `0`, and bits shifted beyond the 8-bit boundary are discarded.
@@ -230,15 +215,3 @@ The program results match the manual calculations:
 
 All shift results are displayed using exactly 8 bits. The arithmetic examples also demonstrate how signed values are represented and how overflow is checked against the 8-bit 2's complement range.
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── signed_binary_arithmetic.py
-└── logical_shift_operations.py
-```
-
-## Author
-
-Created as a Python programming exercise on 8-bit binary arithmetic and logical shift operations.
